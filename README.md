@@ -1,4 +1,3 @@
-```md
 # Excel Row Deleter
 
 A simple Python script to delete a specific row from an `.xlsx` file.
